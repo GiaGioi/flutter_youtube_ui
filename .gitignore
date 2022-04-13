@@ -44,3 +44,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+lib/models/channel_model.dart
+lib/models/video_model.dart
